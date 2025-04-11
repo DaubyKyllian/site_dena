@@ -44,6 +44,8 @@ body {
   .carousel__item:nth-child(1) { transform: rotateY(0deg) translateZ(500px); }
   .carousel__item:nth-child(2) { transform: rotateY(120deg) translateZ(500px); }
   .carousel__item:nth-child(3) { transform: rotateY(240deg) translateZ(500px); }
+  .carousel__item:nth-child(4) { transform: rotateY(216deg) translateZ(500px); }
+  .carousel__item:nth-child(5) { transform: rotateY(288deg) translateZ(500px); }
 
   @keyframes spin {
     from { transform: rotateY(0deg); }
